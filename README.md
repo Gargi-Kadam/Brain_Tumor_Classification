@@ -12,7 +12,7 @@ The model classifies brain scans into 4 categories: **Glioma**, **Meningioma**, 
 
 You can download the dataset from the link below:
 
-🔗 **[Download Dataset from OneDrive](https://drive.google.com/drive/folders/1oD5TW3PtDvlhTO2_P3m8kO2lGGaxbOam?usp=sharing)**
+🔗 **[Click here to access the dataset on Google Drive](https://drive.google.com/drive/folders/1oD5TW3PtDvlhTO2_P3m8kO2lGGaxbOam?usp=sharing)**
 
 > ⚠️ *Note: Due to GitHub file size limitations, the dataset is not included in this repository.*
 
