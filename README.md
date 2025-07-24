@@ -58,10 +58,4 @@ You can download the dataset from the link below:
 
 ---
 
-## 🚀 How to Run the Project
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/brain-tumor-classification.git
-cd brain-tumor-classification
